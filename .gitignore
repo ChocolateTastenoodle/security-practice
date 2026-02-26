@@ -1,0 +1,11 @@
+﻿.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.vdi
+*.vmdk
+*.ova
+*.iso
+*.pem
+*.key
+secrets/
